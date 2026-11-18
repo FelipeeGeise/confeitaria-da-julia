@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": "95a4a996-bb9d-4047-abcb-f207b54be468",
+      "name": "Torta de Abacaxi",
+      "price": 30,
+      "description": "Deliciosa torta de abacaxi, preparado com uma massa fofinha, leve e macia, combinado com o sabor irresistível do abacaxi caramelizado. Sua cobertura traz um toque especial de calda doce e pedaços de abacaxi, proporcionando uma combinação perfeita entre o doce e o azedinho da fruta.\r\n\r\nIdeal para acompanhar um café da tarde, reunir a família ou adoçar qualquer momento especial!",
+      "image": "/api/uploads/1794319759120.jpg"
+    },
+    {
+      "id": "64872c2c-8263-4ac6-b223-c114d632a73d",
+      "name": "Bolo de Chocolate",
+      "price": 25,
+      "description": "Um delicioso bolo de chocolate, preparado com uma massa fofinha, úmida e extremamente saborosa. Recheado e coberto com um irresistível brigadeiro cremoso, trazendo aquele sabor intenso de chocolate que conquista todos os paladares.\r\n\r\nPerfeito para aniversários, comemorações especiais ou simplesmente para adoçar o seu dia. Cada pedaço é uma experiência de sabor e carinho!",
+      "image": "/api/uploads/1794320552471.jpg"
+    },
+    {
+      "id": "a971ef31-7926-4b4c-8fd9-2f2672913aef",
+      "name": "Bolo Vulcão de Chocolate",
+      "price": 35.5,
+      "description": "Uma verdadeira explosão de sabor! Nosso Bolo Vulcão de Chocolate é preparado com uma massa fofinha, macia e molhadinha, coberta com uma generosa camada de brigadeiro cremoso que escorre pelo centro e pelas laterais, formando um delicioso efeito vulcão.\r\n\r\nCada fatia é recheada de muito chocolate, cremosidade e aquele gostinho irresistível de doce caseiro. Perfeito para quem ama chocolate e não dispensa uma sobremesa especial!",
+      "image": "/api/uploads/1794321733216.jpg"
+    },
+    {
+      "id": "dff459ed-7a04-4b20-a0b5-e91a19c8aed9",
+      "name": "Bolo de Ninho com Morangos",
+      "price": 40,
+      "description": "Uma combinação irresistível de delicadeza e sabor! Nosso Bolo de Ninho com Morangos é preparado com uma massa fofinha e macia, recheada com um delicioso creme de Leite Ninho, combinado com pedaços de morangos fresquinhos que trazem um toque especial de leveza e frescor.\r\n\r\nA cobertura cremosa completa essa delícia, proporcionando o equilíbrio perfeito entre o doce do leite em pó e o azedinho natural dos morangos. Uma escolha perfeita para quem ama sobremesas delicadas e especiais!",
+      "image": "/api/uploads/1794322208896.jpg"
+    },
+    {
+      "id": "74a16847-1fbe-4514-abdd-43d4d21aa229",
+      "name": "Bolo formigueiro",
+      "price": 25,
+      "description": "Aquele clássico que conquista pelo sabor e pela simplicidade! Nosso Bolo Formigueiro é preparado com uma massa fofinha, leve e macia, recheada com deliciosas granulações de chocolate que se espalham por toda a massa, deixando cada fatia ainda mais especial.\r\n\r\nCom um sabor suave e aquele gostinho de bolo feito em casa, é perfeito para acompanhar um café quentinho ou compartilhar momentos deliciosos com a família.",
+      "image": "/api/uploads/1794327646439.jpg"
+    },
+    {
+      "id": "cdbdd4ec-f86f-4c39-ae95-e7be28950aae",
+      "name": "Bolo de Trigo",
+      "price": 20,
+      "description": "Aquele bolo tradicional que nunca sai de moda! Nosso Bolo de Trigo é preparado com uma massa fofinha, macia e delicadamente dourada, com sabor suave e uma textura leve que derrete na boca.\r\n\r\nSimples, delicioso e feito com aquele carinho especial de receita caseira. Perfeito para acompanhar um café quentinho no café da manhã ou no lanche da tarde, trazendo aquele gostinho de infância e aconchego em cada pedaço!",
+      "image": "/api/uploads/1794484533603.jpg"
+    },
+    {
+      "id": "f5161dcf-8fb9-4fb1-9dee-8d6d4fbb00a3",
+      "name": "Bolo Mesclado",
+      "price": 20,
+      "description": "Uma combinação perfeita de dois sabores irresistíveis! Nosso Bolo Mesclado é preparado com uma massa fofinha, leve e macia, que mistura a suavidade da baunilha com o sabor intenso do chocolate, criando um lindo efeito mesclado em cada fatia.\r\n\r\nCom textura delicada e sabor caseiro, é uma delícia que agrada toda a família. Perfeito para acompanhar um café quentinho e deixar o seu lanche ainda mais especial!",
+      "image": "/api/uploads/1794484803863.png"
+    },
+    {
+      "id": "5f1c2e8c-1368-4872-9d4a-273c4d7a9527",
+      "name": "Bolo de Limão",
+      "price": 25,
+      "description": "Uma delícia refrescante para quem ama o equilíbrio perfeito entre o doce e o azedinho! Nosso Bolo de Limão é preparado com uma massa fofinha, macia e leve, com um delicioso sabor cítrico de limão. Para completar, recebe uma generosa cobertura cremosa de limão, com textura suave e um toque especial de raspas da fruta.\r\n\r\nPerfeito para acompanhar um café da tarde ou adoçar qualquer momento com muito sabor e carinho!",
+      "image": "/api/uploads/1794485055414.png"
+    },
+    {
+      "id": "d667b30a-aefe-4c3c-9be3-da22ea116909",
+      "name": "Bolo de Cenoura",
+      "price": 25,
+      "description": "Delicioso bolo de cenoura, preparado com cenouras fresquinhas, massa fofinha, macia e levemente úmida. Para completar, recebe uma irresistível cobertura de chocolate cremosa e brilhante, que escorre delicadamente pelas laterais. Uma combinação perfeita de sabor e textura, ideal para acompanhar um café da tarde ou adoçar qualquer momento especial.",
+      "image": "/api/uploads/1794486010704.png"
+    }
+  ],
+  "messages": [
+    {
+      "id": "3b11b7f0-dce0-43c5-9463-1b6acbc40bf3",
+      "name": "Felipe Thiago",
+      "phone": "81999599815",
+      "text": "Testando a empresa de minha sobrinha.",
+      "createdAt": "2026-11-10T13:38:34.857Z",
+      "reply": null
+    }
+  ]
+}
