@@ -1,5 +1,5 @@
-
 import { NextResponse } from "next/server";
+import { revalidatePath } from "next/cache";
 import { supabaseAdmin } from "@/lib/supabaseAdmin";
 import { isAdmin } from "@/lib/auth";
 
@@ -39,6 +39,10 @@ export async function DELETE(req, { params }) {
         { status: 404 }
       );
     }
+
+    revalidatePath("/");
+    revalidatePath("/produtos");
+    revalidatePath(`/produtos/${id}`);
 
     return NextResponse.json({
       ok: true,
@@ -119,6 +123,10 @@ export async function PUT(req, { params }) {
         { status: 404 }
       );
     }
+
+    revalidatePath("/");
+    revalidatePath("/produtos");
+    revalidatePath(`/produtos/${id}`);
 
     return NextResponse.json({
       ok: true,

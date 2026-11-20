@@ -1,5 +1,5 @@
-
 import { NextResponse } from "next/server";
+import { revalidatePath } from "next/cache";
 import crypto from "crypto";
 import path from "path";
 
@@ -158,6 +158,9 @@ export async function POST(req) {
 
       throw new Error("Não foi possível salvar o produto no Supabase.");
     }
+
+    revalidatePath("/");
+    revalidatePath("/produtos");
 
     return NextResponse.json(
       {
